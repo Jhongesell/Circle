@@ -1,0 +1,42 @@
+<b>Versi&oacute;n 1.0.0
+<ul>
+<li><b>Adici&oacute;n de nuevas caracter&iacute;sticas y mantenimiento a la parte 
+matem&aacute;tica</b></li>
+<ul>
+<li><i><a href="http://www.dynamics.unam.edu/hcc/" target="_blank">Humberto Carrillo Calvet</a></i></li>
+<li><i><a href="/acl/" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+<li><i><a href="http://www.dynamics.unam.edu/fol/" target="_blank">Fernando Ongay Larios</a></i></li>
+<li><i><a href="http://www.fciencias.unam.mx/Docencia/PlantaAcademica/Directorio/GUGA531222/index.html">Ana Margarita Guzm&aacute;n Gomez</a></i></li>
+</ul>
+<br>
+<li><b>Programaci&oacute;n</b></li>
+<ul>
+<li><i><a href="http://www.dynamics.unam.edu/hcc/" target="_blank">Humberto Carrillo Calvet</a></i></li>
+<li><i><a href="/acl/" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+<li><i><a href="http://www.dynamics.unam.edu/fol/" target="_blank">Fernando Ongay Larios</a></i></li>
+<li><i><a href="http://www.fciencias.unam.mx/Docencia/PlantaAcademica/Directorio/GUGA531222/index.html">Ana Margarita Guzm&aacute;n Gomez</a></i></li>
+</ul>
+<br>
+<li><b>Dise&ntilde;o</b></li>
+<ul>
+<li><i><a href="http://www.dynamics.unam.edu/hcc/" target="_blank">Humberto Carrillo Calvet</a></i></li>
+<li><i><a href="/acl/" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+<li><i><a href="http://www.dynamics.unam.edu/fol/" target="_blank">Fernando Ongay Larios</a></i></li>
+<li><i><a href="http://www.fciencias.unam.mx/Docencia/PlantaAcademica/Directorio/GUGA531222/index.html">Ana Margarita Guzm&aacute;n Gomez</a></i></li>
+</ul>
+<br>
+<li><b>An&aacute;lisis</b></li>
+<ul>
+<li><i><a href="http://www.dynamics.unam.edu/hcc/" target="_blank">Humberto Carrillo Calvet</a></i></li>
+<li><i><a href="/acl/" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+<li><i><a href="http://www.dynamics.unam.edu/fol/" target="_blank">Fernando Ongay Larios</a></i></li>
+<li><i><a href="http://www.fciencias.unam.mx/Docencia/PlantaAcademica/Directorio/GUGA531222/index.html">Ana Margarita Guzm&aacute;n Gomez</a></i></li>
+</ul>
+</ul>
+<br><br>
+<b>Controlador de Versi&oacute;n:</b>
+<ul>
+<li><i><a href="/acl" target="_blank">Antonio Carrillo Ledesma</a></i></li>
+
+</ul>
+

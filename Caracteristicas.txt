@@ -1,0 +1,97 @@
+<br><br>Versi&oacute;n 1.0.0 
+<ul>
+<li>Escenario de Levantamientos</li>
+<ul>
+En este escenario se traza la gr&aacute;fica de los levantamientos asociados a la funci&oacute;n de la 
+circunferencia.
+<ul>
+<li>C&aacute;lculo del gr&aacute;fico del levantamiento</li>
+<li>C&aacute;lculo de iteraciones dentro del levantamiento</li>
+<li>C&aacute;lculo del n&uacute;mero de rotaci&oacute;n </li>
+<li>C&aacute;lculo de sincronizaci&oacute;n</li>
+<li>C&aacute;lculo del exponente de Lyapunov</li>
+</ul></ul>
+<center><p><img SRC="./Imagenes/Imagen1.png" ALT="Ventana Levantamientos" NOSAVE BORDER=0 ></center>
+<br><br>
+
+<li>Escenario del Toro</li>
+<ul>
+Muestra la gr&aacute;fica de la funci&oacute;n de fases de disparo en un rect&aacute;ngulo, tal que al ser identificadas de 
+forma conveniente sus orillas es topol&oacute;gicamente equivalente con un toro. Por esta raz&oacute;n este espacio es llamado 
+"toro plano". Puesto que la funci&oacute;n es una funci&oacute;n de la circunferencia en la 
+circunferencia, el toro es el espacio natural donde esta debe de ser representada.
+<ul> 
+<li>C&aacute;lculo del gr&aacute;fico en el toro</li> 
+<li>C&aacute;lculo de iteraciones dentro del toro</li>
+<li>C&aacute;lculo del n&uacute;mero de rotaci&oacute;n </li>
+<li>C&aacute;lculo de sincronizaci&oacute;n</li>
+<li>C&aacute;lculo del exponente de Lyapunov</li>
+<li>C&aacute;lculo de los atractaores</li>
+</ul></ul>
+<center><p><img SRC="./Imagenes/Imagen2.png" ALT="Ventana Toro" NOSAVE BORDER=0 ></center>
+<br><br>
+
+<li>Escenario de C&iacute;rculo</li>
+<ul>
+Muestra las iteraciones en la circunferencia de la funci&oacute;n. Esto permite identificar en 
+qu&eacute; fases del forzamiento peri&oacute;dico ocurren los disparos.
+<ul>
+<li>C&aacute;lculo de iteraciones dentro del c&iacute;rculo</li>
+<li>C&aacute;lculo de las cuencas de atraccci&oacute;n</li>
+<li>C&aacute;lculo del n&uacute;mero de rotaci&oacute;n </li>
+<li>C&aacute;lculo de sincronizaci&oacute;n</li>
+<li>C&aacute;lculo del exponente de Lyapunov</li>
+<li>C&aacute;lculo de los atractaores</li>
+</ul></ul>
+<center><p><img SRC="./Imagenes/Imagen3.png" ALT="Ventana C&iacute;rculo" NOSAVE BORDER=0 ></center>
+<br><br>
+
+<li>Escenario de Bifurcaciones</li>
+<ul>
+En este escenario se puede ver la evoluci&oacute;n de los atractores de las &oacute;rbitas o secuencias de disparos que 
+generan las funciones de la cincunferencia  al ser modificado gradualmente alguno de los par&aacute;metros que 
+gobiernan a los sistemas. Cuando ocurre alg&uacute;n cambio cualitativo en la din&aacute;mica del sistema esta es llamada una 
+bifurcaci&oacute;n. En la parte principal de la ventana de este escenario se traza el diagrama de bifurcaciones y en 
+la parte superior se traza una gr&aacute;fica que representa el exponente de Lyapunov en cada punto de los 
+par&aacute;metros. Los exponentes de Lypaunov t&iacute;picamente sirven para distinguir entre din&aacute;micas peri&oacute;dicas y 
+ca&oacute;ticas del sistema. 
+<ul> 
+<li>C&aacute;lculo de bifurcaciones y exponente de Lyapunov</li> 
+<li>C&aacute;lculo del n&uacute;mero de rotaci&oacute;n </li>
+<li>C&aacute;lculo de sincronizaci&oacute;n</li>
+<li>C&aacute;lculo del exponente de Lyapunov</li>
+</ul></ul>
+<center><p><img SRC="./Imagenes/Imagen4.png" ALT="Ventana Bifurcaciones" NOSAVE BORDER=0 ></center>
+<br><br>
+
+<li>Escenario de Lenguas de Arnold</li>
+<ul>
+En este escenario se calculan y se muestran diagramas en dos dimensiones de las regiones del espacio de 
+par&aacute;metros donde el n&uacute;mero de rotaci&oacute;n es constante o donde el sistema muestra comportamientos sincronizados 
+del mismo tipo. A estas regiones se les conoce como lenguas de Arnold. 
+<ul>
+<li>C&aacute;lculo de Lenguas de Arnold</li>
+<li>C&aacute;lculo del n&uacute;mero de rotaci&oacute;n </li>
+<li>C&aacute;lculo de sincronizaci&oacute;n</li>
+<li>C&aacute;lculo del exponente de Lyapunov</li>
+</ul></ul>
+<center><p><img SRC="./Imagenes/Imagen5.png" ALT="Ventana Lenguas" NOSAVE BORDER=0 ></center>
+<br><br>
+
+
+<li>Escenario de la Escalera del Diablo</li>
+<ul>
+Traza una gr&aacute;fica donde se calcula el n&uacute;mero de rotaci&oacute;n en funci&oacute;n de alguno de los par&aacute;metros del sistema. 
+T&iacute;picamente se ve como una funci&oacute;n creciente escalonada, donde cada escal&oacute;n representa un conjunto de 
+par&aacute;metros donde el n&uacute;mero de rotaci&oacute;n es constante.
+<ul>
+<li>C&aacute;lculo de la Escalera del Diablo</li>
+<li>C&aacute;lculo del n&uacute;mero de rotaci&oacute;n </li>
+<li>C&aacute;lculo de sincronizaci&oacute;n</li>
+<li>C&aacute;lculo del exponente de Lyapunov</li>
+</ul></ul>
+<center><p><img SRC="./Imagenes/Imagen6.png" ALT="Ventana Escalera del Diablo" NOSAVE BORDER=0 ></center>
+<br><br>
+
+</ul>
+
